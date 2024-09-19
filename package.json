@@ -1,5 +1,5 @@
 {
-  "name": "meetingsdk-react-native",
+  "name": "react-native-zoom-meetingsdk",
   "version": "0.0.1",
   "description": "A react-native wrapper for Zoom Meeting SDK",
   "main": "lib/commonjs/index",
