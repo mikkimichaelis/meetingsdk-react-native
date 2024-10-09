@@ -1,6 +1,6 @@
 import { Context } from './Context';
 import { ZoomSDKProvider } from './ZoomSDKProvider';
-import { useZoom } from './hooks';
+import { useZoom, useSDKHandler } from './hooks';
 
-export { Context, ZoomSDKProvider, useZoom };
+export { Context, ZoomSDKProvider, useZoom, useSDKHandler };
 export * from './hooks';
